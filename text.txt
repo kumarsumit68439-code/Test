@@ -1,0 +1,7 @@
+my-chat-app/
+├── vercel.json        <-- (Vercel Configuration)
+├── package.json       <-- (Project Manifest)
+├── api/
+│   └── chat.js        <-- (Your Node.js API Code)
+└── public/
+    └── index.html     <-- (Your HTML Frontend)

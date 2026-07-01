@@ -1,0 +1,7 @@
+my-chat-app/
+├── vercel.json           <-- Core Vercel configurations
+├── package.json          <-- Project Manifest & runtime targets
+├── api/
+│   └── chat.js           <-- Your original Node.js backend handler
+└── public/
+    └── index.html        <-- Main UI frontend entrypoint

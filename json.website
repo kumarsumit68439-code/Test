@@ -1,0 +1,11 @@
+{
+  "name": "echobot-craft-vercel-deployment",
+  "version": "1.1.0",
+  "description": "Custom endpoint deployment for Base44 EchoBot App",
+  "main": "api/chat.js",
+  "type": "module",
+  "dependencies": {},
+  "engines": {
+    "node": "20.x"
+  }
+}

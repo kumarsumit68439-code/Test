@@ -1,0 +1,11 @@
+{
+  "name": "vercel-openai-chat-app",
+  "version": "1.0.0",
+  "description": "Serverless OpenAI chat app on Vercel",
+  "main": "api/chat.js",
+  "type": "module",
+  "dependencies": {},
+  "engines": {
+    "node": "20.x"
+  }
+}
